@@ -1,1 +1,18 @@
-{}
+{
+    "BG_BG_CHSD0": "BG_ШАХМАТЫ_ОБУЧЕНИЕ",
+    "BG_BG_CAFD1": "BG_КАФЕ_ДЕНЬ_ВНУТРИ",
+    "BG_TMP00_D": "BG_TMP00_D",
+    "BG_TMP01_D": "BG_TMP01_D",
+    "BG_TMP02_D": "BG_TMP02_D",
+    "BG_BG_AKID0": "BG_ЛЕС_ДЕНЬ",
+    "BG_BG_AKIE0": "BG_ЛЕС_ВЕЧЕР",
+    "BG_BG_AKIN0": "BG_ЛЕС_НОЧЬ",
+    "BG_BG_ARCD0": "BG_МАГАЗИН_ДЕНЬ",
+    "BG_BG_BUND0": "BG_КОМНАТА КЛУБА_ДЕНЬ",
+    "BG_BG_BUNE0": "BG_КОМНАТА КЛУБА_ВЕЧЕР",
+    "BG_BG_BUNN0": "BG_КОМНАТА КЛУБА_НОЧЬ0",
+    "BG_BG_BUNN1": "BG_КОМНАТА КЛУБА_НОЧЬ1",
+    "BG_BG_BRGD0": "BG_МОСТ_ДЕНЬ",
+    "BG_BG_BRGN0": "BG_МОСТ_НОЧЬ",
+    "BG_BG_CAFD0": "BG_КАФЕ_ДЕНЬ_СНАРУЖИ"
+}

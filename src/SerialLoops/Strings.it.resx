@@ -1025,7 +1025,7 @@
     <value>Lista nome oggetti</value>
   </data>
   <data name="Episode Header" xml:space="preserve">
-    <value>Episode Header</value>
+    <value>Intestazione Episodio</value>
   </data>
   <data name="Invalid item type!" xml:space="preserve">
     <value>Tipo di oggetto non valido!</value>
@@ -1302,7 +1302,7 @@
     <value>Imposta informazioni del loop della BGM</value>
   </data>
   <data name="Setting CG single image..." xml:space="preserve">
-    <value>Imposta Immagine singola dei PG…</value>
+    <value>Imposta Immagine singola dei CG…</value>
   </data>
   <data name="Run" xml:space="preserve">
     <value>Avvia</value>
@@ -2267,5 +2267,11 @@
   </data>
   <data name="Remember Project Workspace" xml:space="preserve">
     <value>Ricorda spazio lavoro del progetto</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Errore</value>
+  </data>
+  <data name="Add Read Flag" xml:space="preserve">
+    <value>Aggiungi segnalibro "Già letto"</value>
   </data>
 </root>

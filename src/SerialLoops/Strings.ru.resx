@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="&amp;Check for Updates..." xml:space="preserve">
+    <value>&amp;Проверка Наличия Обновлений…</value>
+  </data>
+  <data name="&quot;Kinetic&quot; Background" xml:space="preserve">
+    <value>Кинетический Фон</value>
+  </data>
+  <data name="%" xml:space="preserve">
+    <value>%</value>
+  </data>
+  <data name="&amp;Edit" xml:space="preserve">
+    <value>&amp;Редактирование</value>
+  </data>
+  <data name="&amp;File" xml:space="preserve">
+    <value>&amp;Файл</value>
+  </data>
+  <data name="&amp;Preferences..." xml:space="preserve">
+    <value>&amp;Настройки…</value>
+  </data>
+  <data name="&amp;Tools" xml:space="preserve">
+    <value>&amp;Инструменты</value>
+  </data>
 </root>
